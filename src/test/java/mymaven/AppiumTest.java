@@ -7,6 +7,7 @@ public class AppiumTest {
 	public void appiummethod()
 	{
 		System.out.println("i am appium method");
+		System.out.println("i am appium  second method")
 		
 		
 	}
@@ -15,5 +16,12 @@ public class AppiumTest {
 	{
 		System.out.println("i am mobile login method");
 	}
-
+	@Test
+	public void appiummethod1()
+	{
+		System.out.println("i am appium method");
+		System.out.println("i am appium second method");
+		
+		
+	}
 }

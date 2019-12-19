@@ -14,6 +14,12 @@ public class SeleniumTest {
 	{
 		System.out.println("i am a weblogin method");
 	}
+	@Test
+	public void weblogin1()
+	{
+		System.out.println("i am a weblogin second method");
+	}
+
 	
 
 }
