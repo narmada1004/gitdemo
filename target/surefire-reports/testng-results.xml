@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="138" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="138" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+      <class name="mymaven.SeleniumTest">
+        <test-method status="PASS" signature="weblogin()[pri:0, instance:mymaven.SeleniumTest@5025a98f]" name="weblogin" duration-ms="0" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weblogin -->
+        <test-method status="PASS" signature="webtest()[pri:0, instance:mymaven.SeleniumTest@5025a98f]" name="webtest" duration-ms="0" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webtest -->
+      </class> <!-- mymaven.SeleniumTest -->
+      <class name="mymaven.RestapiTest">
+        <test-method status="PASS" signature="api()[pri:0, instance:mymaven.RestapiTest@6adede5]" name="api" duration-ms="12" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api -->
+        <test-method status="PASS" signature="deletetwitter()[pri:0, instance:mymaven.RestapiTest@6adede5]" name="deletetwitter" duration-ms="0" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+      </class> <!-- mymaven.RestapiTest -->
+      <class name="mymaven.AppiumTest">
+        <test-method status="PASS" signature="appiummethod()[pri:0, instance:mymaven.AppiumTest@2d928643]" name="appiummethod" duration-ms="0" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiummethod -->
+        <test-method status="PASS" signature="mobilelogin()[pri:0, instance:mymaven.AppiumTest@2d928643]" name="mobilelogin" duration-ms="0" started-at="2019-10-26T00:37:37 CDT" finished-at="2019-10-26T00:37:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilelogin -->
+      </class> <!-- mymaven.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
